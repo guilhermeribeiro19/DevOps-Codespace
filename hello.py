@@ -1,5 +1,2 @@
-click
-pytest
-pylint
-black
-pytest-cov
+def hi():
+    return "hi"
